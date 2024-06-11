@@ -63,7 +63,7 @@ Job.init(
     },
     paid: {
       type: Sequelize.BOOLEAN,
-      default:false
+      default: false
     },
     paymentDate:{
       type: Sequelize.DATE
